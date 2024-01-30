@@ -9,10 +9,10 @@
        "A library for declarative configuration."
 
        :scm
-       {:url "https://github.com/instilled/confucius"}
+       {:url "https://github.com/nickik/confucius"}
 
        :url
-       "https://github.com/instilled/confucius"}
+       "https://github.com/nickik/confucius"}
   jar {:file "confucius.jar"})
 
 (set-env!
