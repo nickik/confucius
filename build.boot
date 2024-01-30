@@ -3,7 +3,7 @@
        'confucius/confucius
 
        :version
-       "0.0.4-SNAPSHOT"
+       "0.0.5-SNAPSHOT"
 
        :description
        "A library for declarative configuration."
@@ -26,7 +26,7 @@
   "target"
 
   :dependencies
-  '[[org.clojure/clojure                  "1.7.0"
+  '[[org.clojure/clojure                  "1.10.0"
      :scope "provided"]
     [org.yaml/snakeyaml                   "1.16"
      :scope "provided"]

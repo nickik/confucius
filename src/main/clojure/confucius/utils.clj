@@ -2,7 +2,7 @@
       :doc "Tools for working with configuration maps."}
   confucius.utils
   (:import
-    [java.util.LinkedHashMap]))
+    [java.util LinkedHashMap]))
 
 (defn walkx
   "Custom `clojure.walk/walk`. We also turn java.util.Collection
